@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading.deps.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading.runtimeconfig.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading.runtimeconfig.dev.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/bin/Debug/netcoreapp3.1/Method_Overloading.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.AssemblyInfo.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/obj/Debug/netcoreapp3.1/Method_Overloading.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDJvN4B779rQJnwi8tGDy9IPYiimFesGJpznn1vG60mv4GEitHCHxz6q4dpB38qVVrfrsXryG65iQ9P5c4NtCg==",
+  "success": true,
+  "projectFilePath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/Method_Overloading/Method_Overloading.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
